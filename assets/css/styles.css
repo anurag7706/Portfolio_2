@@ -530,16 +530,4 @@ img {
   }
 }
 
-.perfil {
-  display: flex;
-  justify-content: flex-end;
-  align-items: left;
-  margin-left: 60 px;
-  margin-right:600 px; /* Adjust the margin as needed */
-}
 
-.perfil img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 50%;
-}
