@@ -1,6 +1,8 @@
 # Portfolio_2
 Passionate tech enthusiast me showcases my programming and web development expertise in this responsive portfolio, featuring projects, skills, and contact details.
 
+LINK : https://anurag7706.github.io/Portfolio_2/
+
 PREVIEW :
 
 ![HOME](https://github.com/anurag7706/Portfolio_2/assets/75776424/7a6312c2-e691-4228-83e1-31936b4ee768)
