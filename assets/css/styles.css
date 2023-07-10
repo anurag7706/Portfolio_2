@@ -433,7 +433,7 @@ img {
   }
   .home__img {
     width: 300px;
-    bottom: 34%;
+    bottom: 40%;
   }
   .about__container {
     grid-template-columns: repeat(2, 1fr);
@@ -495,9 +495,8 @@ img {
     padding: 8rem 0 2rem;
   }
   .home__img {
-    width: 900px;
-    bottom: 28%;
-    left: 78%;
+    width: 400px;
+   
   }
   .about__container {
     padding-top: 2rem;
