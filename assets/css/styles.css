@@ -433,7 +433,7 @@ img {
   }
   .home__img {
     width: 300px;
-    bottom: 36%;
+    bottom: 34%;
   }
   .about__container {
     grid-template-columns: repeat(2, 1fr);
